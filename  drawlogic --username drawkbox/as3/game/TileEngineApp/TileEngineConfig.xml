@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<config>
+	<services>
+		<service type="JSON">
+			<uri>http://localhost/tileEngine/service/</uri>
+		</service>
+		<service type="XML">
+			<uri>http://localhost/tileEngine/service/</uri>
+		</service>
+	</services>	
+	<paths>
+		<path code="ASSETPATH">base/assets/</path>
+		<path code="ASSETPATH">base/assets/</path>
+	</paths>
+</config>
